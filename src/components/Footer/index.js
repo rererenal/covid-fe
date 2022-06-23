@@ -6,7 +6,7 @@ function Footer() {
     <footer className={styles.footer}>
       <div>
         <h1 className={styles.footer__brand}>Covid ID</h1>
-        <h4 className={styles.footer__author}>Developed by faizalqossam</h4>
+        <h4 className={styles.footer__author}>Developed by rererenal</h4>
       </div>
       <div>
         <ul className={styles.footer__list}>
